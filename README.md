@@ -1,4 +1,6 @@
-![Tests](https://github.com/bradguillen15/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/bradguillen15/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?job=tests)
+![Style](https://github.com/bradguillen15/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?job=style)
+![Deploy](https://github.com/bradguillen15/learn-cicd-typescript-starter/actions/workflows/cd.yml/badge.svg?job=deploy)
 
 # learn-cicd-typescript-starter (Notely)
 
